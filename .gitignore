@@ -16,3 +16,4 @@ coverage.txt
 imposters
 
 !internal/server/http/test/testdata/imposters/
+/.go-version
